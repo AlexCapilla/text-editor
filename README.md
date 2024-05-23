@@ -51,6 +51,7 @@ The application registers a service worker using Workbox. The service worker pre
 
 ## Deployment
 To deploy the application to Render, ensure you have the proper build scripts in place for a Webpack application. The application should automatically build and start on Render.
+Link: https://text-editor-0vdy.onrender.com
 
 ## License
 This project is licensed under the MIT License.

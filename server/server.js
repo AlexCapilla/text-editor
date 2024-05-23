@@ -1,3 +1,6 @@
+console.log("Current working directory:", process.cwd());
+
+
 const express = require('express');
 
 const app = express();
